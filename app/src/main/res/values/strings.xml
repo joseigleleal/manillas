@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">CotizadorPulseras</string>
+
+<string name="slmat">Selecione EL Material</string>
+    <string name="cuero">Cuero</string>
+    <string name="cuerda">Cuerda</string>
+
+    <string name="sldije">Seleccione El Dije </string>
+    <string name="martillo">Martillo</string>
+    <string name="ancla">Ancla</string>
+
+    <string name="seltipo">Seleccione El Tipo</string>
+    <string name="oro">Oro</string>
+    <string name="oroR">Oro Rosado</string>
+    <string name="plata">Plata</string>
+
+    <string name="calcular">Calcular</string>
+    <string name="moneda">Seleccione Moneda</string>
+    <string name="usd">Dolar</string>
+    <string name="pesocol">Peso Colombiano</string>
+
+    <string name="limpiar">Limpiar</string>
+
+    <string-array name="Moneda">
+
+        <item>@string/usd</item>
+        <item>@string/pesocol</item>
+    </string-array>
+
+    <string-array name="Material">
+
+        <item>@string/cuero</item>
+        <item>@string/cuerda</item>
+    </string-array>
+
+    <string-array name="dije">
+        <item>@string/martillo</item>
+        <item>@string/ancla</item>
+    </string-array>
+
+    <string-array name="tipo">
+
+        <item>@string/oro</item>
+        <item>@string/oroR</item>
+        <item>@string/plata</item>
+    </string-array>
+
+</resources>
