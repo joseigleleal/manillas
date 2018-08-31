@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quoteer Bracelets</string>
+    <string name="slmat">Select matter</string>
+    <string name="cuero">" Leather"</string>
+    <string name="cuerda">Rope</string>
+    <string name="sldije">select pendant</string>
+    <string name="martillo">Hammer</string>
+    <string name="ancla">Anchor</string>
+    <string name="seltipo">select tipe</string>
+    <string name="oro">gold</string>
+    <string name="oroR">rose gold</string>
+    <string name="plata">silver</string>
+    <string name="calcular">calculate</string>
+    <string name="moneda">select coin</string>
+    <string name="usd">Dollar</string>
+    <string name="pesocol">Colombian peso</string>
+    <string name="limpiar">clear</string>
+</resources>
